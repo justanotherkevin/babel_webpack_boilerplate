@@ -28,7 +28,7 @@ $ npm start
 ```
 
 ### Build
-Compile and build
+Compile and build. Out put path shown in webpack.config
 
 ```
 $ npm run build
